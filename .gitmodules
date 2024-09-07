@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/map_server_3d"]
+	path = catkin_ws/src/map_server_3d
+	url = https://github.com/cheny110/map_server_3d.git
